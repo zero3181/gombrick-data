@@ -28,7 +28,7 @@
       },
       {
         "id": "1_basic_6",
-        "name": "Basic 'R2'",
+        "name": "Basic 'R'",
         "percentage": "1.11%"
       },
       {
@@ -51,17 +51,17 @@
       {
         "id": "1_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "1_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "1_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "1_standard_4",
@@ -76,96 +76,96 @@
       {
         "id": "1_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "14.58%"
       },
       {
         "id": "1_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "1_artist_1",
-        "name": "Artist [Hiroto]",
-        "percentage": "4.17%"
+        "name": "Artist 'Hiroto'",
+        "percentage": "4.16%"
       },
       {
         "id": "1_artist_2",
-        "name": "Artist [Hanakuma]",
+        "name": "Artist 'Hanakuma'",
         "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "1_secret_1",
-        "name": "Secret [Hiroto]",
-        "percentage": "1.04%"
+        "name": "Secret 'Hiroto'",
+        "percentage": "0.52%"
       },
       {
         "id": "1_secret_2",
-        "name": "Secret [Hazure]",
-        "percentage": "0.52%"
+        "name": "Secret 'Hazure'",
+        "percentage": "1.11%"
       }
     ],
     "id": 1,
     "name": "Series 1",
     "year": 2001,
-    "month": 2
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "2_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "2_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "2_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "2_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "2_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "2_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "2_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "2_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "2_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "2_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "2_standard_2",
@@ -180,17 +180,17 @@
       {
         "id": "2_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "2_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "2_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "2_standard_7",
@@ -201,85 +201,85 @@
     "artist": [
       {
         "id": "2_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Takeyama Noriya'",
+        "percentage": "4.16%"
       },
       {
         "id": "2_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Mori Chack'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "2_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Daruma'",
+        "percentage": "0.52%"
       },
       {
         "id": "2_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Unknown'",
+        "percentage": "0.52%"
       }
     ],
     "id": 2,
     "name": "Series 2",
     "year": 2001,
-    "month": 5
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "3_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "3_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "3_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "3_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "3_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "3_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "3_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "3_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "3_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "3_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "3_standard_2",
@@ -289,131 +289,126 @@
       {
         "id": "3_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "3_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "3_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "11.45%"
       },
       {
         "id": "3_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "14.58%"
       },
       {
         "id": "3_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       }
     ],
     "artist": [
       {
         "id": "3_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Devilrobots'",
+        "percentage": "4.16%"
       },
       {
         "id": "3_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'HF'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "3_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "3_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Winnie the Pooh'",
+        "percentage": "0.52%"
       }
     ],
     "id": 3,
     "name": "Series 3",
-    "year": 2001,
-    "month": 8
+    "year": 2002,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "4_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "4_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "4_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "4_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "4_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "4_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "4_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "4_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "4_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "4_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "4_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "4_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "4_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "4_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "4_standard_6",
@@ -423,220 +418,210 @@
       {
         "id": "4_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "4_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Inoue Santa'",
+        "percentage": "4.16%"
       },
       {
         "id": "4_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'KAWS Companion'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "4_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "4_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'VIP'",
+        "percentage": "0.52%"
       }
     ],
     "id": 4,
     "name": "Series 4",
-    "year": 2001,
-    "month": 11
+    "year": 2002,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "5_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "5_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "5_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "5_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "5_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "5_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "5_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "5_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "5_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "5_standard_1",
-        "name": "Jellybean",
-        "percentage": "12.5%"
+        "name": "Thermo",
+        "percentage": "13.54%"
       },
       {
         "id": "5_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "5_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "5_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "5_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "5_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "5_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "5_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Futura'",
+        "percentage": "4.16%"
       },
       {
         "id": "5_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Tokoro-san'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "5_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "5_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Nike'",
+        "percentage": "0.52%"
       }
     ],
     "id": 5,
     "name": "Series 5",
     "year": 2002,
-    "month": 2
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "6_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "6_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "6_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "6_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "6_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "6_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "6_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "6_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "6_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "6_standard_1",
-        "name": "Jellybean",
-        "percentage": "12.5%"
+        "name": "Thermo",
+        "percentage": "9.38%"
       },
       {
         "id": "6_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "6_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "6_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "6_standard_5",
@@ -646,89 +631,89 @@
       {
         "id": "6_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "14.58%"
       },
       {
         "id": "6_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       }
     ],
     "artist": [
       {
         "id": "6_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Kozik'",
+        "percentage": "4.16%"
       },
       {
         "id": "6_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Hitomi'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "6_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Pattern Unkle'",
+        "percentage": "0.52%"
       },
       {
         "id": "6_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Stussy'",
+        "percentage": "0.52%"
       }
     ],
     "id": 6,
     "name": "Series 6",
-    "year": 2002,
-    "month": 5
+    "year": 2003,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "7_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "7_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "7_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "7_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "7_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "7_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "7_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "7_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "7_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
@@ -745,136 +730,136 @@
       {
         "id": "7_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "7_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "7_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "7_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "7_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       }
     ],
     "artist": [
       {
         "id": "7_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist '7stars'",
+        "percentage": "4.16%"
       },
       {
         "id": "7_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Lily Franky'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "7_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Horror'",
+        "percentage": "1.04%"
       },
       {
         "id": "7_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Bounty Hunter'",
+        "percentage": "0.52%"
       }
     ],
     "id": 7,
     "name": "Series 7",
-    "year": 2002,
-    "month": 8
+    "year": 2003,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "8_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "8_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "8_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "8_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "8_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "8_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "8_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "8_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "8_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "8_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "8_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "8_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "8_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "8_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "8_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "8_standard_7",
@@ -885,105 +870,105 @@
     "artist": [
       {
         "id": "8_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'H8GRAPHIX'",
+        "percentage": "4.16%"
       },
       {
         "id": "8_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Chika Umino'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "8_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Animal Skull Batta'",
+        "percentage": "1.04%"
       },
       {
         "id": "8_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Nitrow'",
+        "percentage": "0.52%"
       }
     ],
     "id": 8,
     "name": "Series 8",
-    "year": 2002,
-    "month": 11
+    "year": 2004,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "9_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "9_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "9_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "9_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "9_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "9_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "9_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "9_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "9_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "9_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "9_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "9_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "9_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "9_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "9_standard_6",
@@ -993,686 +978,671 @@
       {
         "id": "9_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       }
     ],
     "artist": [
       {
         "id": "9_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Mastermind Japan'",
+        "percentage": "4.16%"
       },
       {
         "id": "9_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Toru Yamazaki'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "9_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Pattern Red'",
+        "percentage": "1.04%"
       },
       {
         "id": "9_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Amos King Ken'",
+        "percentage": "0.52%"
       }
     ],
     "id": 9,
     "name": "Series 9",
-    "year": 2003,
-    "month": 2
+    "year": 2004,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "10_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "10_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "10_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "10_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "10_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "10_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "10_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "10_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "10_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "10_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "10_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "10_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "10_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "10_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "10_standard_6",
         "name": "Cute",
         "percentage": "12.5%"
       },
       {
+        "id": "10_standard_6",
+        "name": "SF",
+        "percentage": "9.38%"
+      },
+      {
         "id": "10_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       }
     ],
     "artist": [
       {
         "id": "10_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Modern Pets'",
+        "percentage": "4.16%"
       },
       {
         "id": "10_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'First Class'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "10_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Modern Pets Green & Blue'",
+        "percentage": "1.04%"
       },
       {
         "id": "10_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Gallery 1950'",
+        "percentage": "0.52%"
       }
     ],
     "id": 10,
     "name": "Series 10",
-    "year": 2003,
-    "month": 5
+    "year": 2005,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "11_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "11_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "11_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "11_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "11_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "11_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "11_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "11_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "11_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "11_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "11_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "11_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "11_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "11_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "11_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "11_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "11_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Taro Shooten'",
+        "percentage": "4.16%"
       },
       {
         "id": "11_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Naoki Urasawa'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "11_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "11_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Mist'",
+        "percentage": "1.04%"
       }
     ],
     "id": 11,
     "name": "Series 11",
-    "year": 2003,
-    "month": 8
+    "year": 2005,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "12_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "12_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "12_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "12_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "12_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "12_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "12_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "12_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "12_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "12_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "12_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "12_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "12_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "12_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "12_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "12_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "12_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Moyoco Anno'",
+        "percentage": "4.16%"
       },
       {
         "id": "12_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Roen'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "12_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Joga Bonito'",
+        "percentage": "0.52%"
       },
       {
         "id": "12_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Undefeated'",
+        "percentage": "0.52%"
       }
     ],
     "id": 12,
     "name": "Series 12",
-    "year": 2003,
-    "month": 11
+    "year": 2006,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "13_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "13_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "13_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "13_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "13_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "13_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "13_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "13_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "13_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "13_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "13_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "13_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "13_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "13_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "13_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "13_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "13_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Hoshi Yoriko'",
+        "percentage": "4.16%"
       },
       {
         "id": "13_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Skull'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "13_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "13_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'SF Asuka Langley Soryu'",
+        "percentage": "4.16%"
       }
     ],
     "id": 13,
     "name": "Series 13",
-    "year": 2004,
-    "month": 2
+    "year": 2006,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "14_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "14_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "14_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "14_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "14_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "14_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "14_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "14_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "14_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "14_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "14_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "14_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "14_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "14_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "14_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "14_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       }
     ],
     "artist": [
       {
         "id": "14_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Conrad Leach'",
+        "percentage": "4.16%"
       },
       {
         "id": "14_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Uotake Poetry'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "14_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "14_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Unbreakable'",
+        "percentage": "0.52%"
       }
     ],
     "id": 14,
     "name": "Series 14",
-    "year": 2004,
-    "month": 5
+    "year": 2007,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "15_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "15_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "15_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "15_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "15_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "15_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "15_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "15_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "15_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "15_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "15_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "15_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "15_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "15_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "15_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "15_standard_7",
@@ -1683,95 +1653,100 @@
     "artist": [
       {
         "id": "15_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Hara Tetsuo'",
+        "percentage": "4.16%"
       },
       {
         "id": "15_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Andy Warhol'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "15_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Animal White'",
+        "percentage": "2.08%"
       },
       {
         "id": "15_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Animal Black'",
+        "percentage": "1.04%"
+      },
+      {
+        "id": "15_secret_3",
+        "name": "Secret 'SF'",
+        "percentage": "2.08%"
       }
     ],
     "id": 15,
     "name": "Series 15",
-    "year": 2004,
-    "month": 8
+    "year": 2007,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "16_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "16_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "16_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "16_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "16_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "16_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "16_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "16_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "16_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "16_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "16_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "16_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "16_standard_4",
@@ -1781,129 +1756,124 @@
       {
         "id": "16_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "16_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "16_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       }
     ],
     "artist": [
       {
         "id": "16_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Frogman'",
+        "percentage": "4.16%"
       },
       {
         "id": "16_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'DJ Ozma'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "16_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Horror DMC'",
+        "percentage": "1.04%"
       },
       {
         "id": "16_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Cute Mukku'",
+        "percentage": "2.08%"
       }
     ],
     "id": 16,
     "name": "Series 16",
-    "year": 2004,
-    "month": 11
+    "year": 2008,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "17_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "17_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "17_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "17_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "17_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "17_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "17_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "17_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "17_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "17_standard_1",
-        "name": "Jellybean",
-        "percentage": "12.5%"
+        "name": "Pattern",
+        "percentage": "7.29%"
       },
       {
         "id": "17_standard_2",
-        "name": "Pattern",
-        "percentage": "12.5%"
+        "name": "Flag",
+        "percentage": "8.33%"
       },
       {
         "id": "17_standard_3",
-        "name": "Flag",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "17_standard_4",
         "name": "Horror",
         "percentage": "12.5%"
       },
       {
-        "id": "17_standard_5",
+        "id": "17_standard_4",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
+      },
+      {
+        "id": "17_standard_5",
+        "name": "Cute",
+        "percentage": "9.38%"
       },
       {
         "id": "17_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "17_standard_7",
         "name": "Animal",
         "percentage": "12.5%"
       }
@@ -1911,214 +1881,219 @@
     "artist": [
       {
         "id": "17_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'The World of Golden Eggs'",
+        "percentage": "4.16%"
       },
       {
         "id": "17_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Alexander Girard'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "17_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Animal Mickey'",
+        "percentage": "2.08%"
       },
       {
         "id": "17_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Kubrick'",
+        "percentage": "2.08%"
       }
     ],
     "id": 17,
     "name": "Series 17",
-    "year": 2005,
-    "month": 2
+    "year": 2008,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "18_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "18_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "18_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "18_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "18_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "18_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "18_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "18_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "18_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "18_standard_1",
-        "name": "Jellybean",
-        "percentage": "12.5%"
+        "name": "Pattern",
+        "percentage": "9.37%"
       },
       {
         "id": "18_standard_2",
-        "name": "Pattern",
-        "percentage": "12.5%"
+        "name": "Flag",
+        "percentage": "7.29%"
       },
       {
         "id": "18_standard_3",
-        "name": "Flag",
-        "percentage": "12.5%"
+        "name": "Horror",
+        "percentage": "7.29%"
       },
       {
         "id": "18_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "SF",
+        "percentage": "10.42%"
       },
       {
         "id": "18_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "Cute",
+        "percentage": "11.46%"
       },
       {
         "id": "18_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Animal",
+        "percentage": "11.46%"
       },
       {
         "id": "18_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
+        "name": "Jellybean",
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "18_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Tokidoki'",
+        "percentage": "4.16%"
       },
       {
         "id": "18_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Moichi Kuwahara'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "18_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Horror Ren'",
+        "percentage": "7.29%"
       },
       {
         "id": "18_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Cute SpongeBob'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "18_secret_3",
+        "name": "Secret 'Animal Hello Kitty'",
+        "percentage": "2.08%"
       }
     ],
     "id": 18,
     "name": "Series 18",
-    "year": 2005,
-    "month": 5
+    "year": 2009,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "19_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "19_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "19_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "19_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "19_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "19_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "19_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "19_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "19_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "19_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "19_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "11.46%"
       },
       {
         "id": "19_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "19_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "19_standard_5",
@@ -2128,3347 +2103,3814 @@
       {
         "id": "19_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "13.54%"
       },
       {
         "id": "19_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       }
     ],
     "artist": [
       {
         "id": "19_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'KZK'",
+        "percentage": "4.16%"
       },
       {
         "id": "19_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Bad Robot'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "19_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "19_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'SF Kamen Rider Den-O'",
+        "percentage": "4.16%"
       }
     ],
     "id": 19,
     "name": "Series 19",
-    "year": 2005,
-    "month": 8
+    "year": 2009,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "20_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "20_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "20_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "20_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "20_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "20_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "20_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "20_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "20_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "20_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "20_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "20_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "20_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "20_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "20_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "20_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "20_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'fragment design'",
+        "percentage": "2.08%"
       },
       {
         "id": "20_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Krooked'",
+        "percentage": "6.25%"
       }
     ],
     "secret": [
       {
         "id": "20_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'SF War Machine'",
+        "percentage": "7.29%"
       },
       {
         "id": "20_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Animal Gremlins Stripe'",
+        "percentage": "3.13%"
       }
     ],
     "id": 20,
     "name": "Series 20",
-    "year": 2005,
-    "month": 11
+    "year": 2010,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "21_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "21_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "21_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "21_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "21_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "21_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.04%"
       },
       {
         "id": "21_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "21_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "21_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       }
     ],
     "standard": [
       {
         "id": "21_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "21_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "21_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "21_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "21_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "SF #1",
+        "percentage": "6.25%"
       },
       {
         "id": "21_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "SF #2",
+        "percentage": "6.25%"
       },
       {
         "id": "21_standard_7",
+        "name": "Cute",
+        "percentage": "7.29%"
+      },
+      {
+        "id": "21_standard_8",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
+      },
+      {
+        "id": "21_standard_9",
+        "name": "Hero",
+        "percentage": "7.29%"
       }
     ],
     "artist": [
       {
         "id": "21_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'holiday'",
+        "percentage": "1.04%"
       },
       {
         "id": "21_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Haze'",
+        "percentage": "6.25%"
       }
     ],
     "secret": [
       {
         "id": "21_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Horror Twin Peaks'",
+        "percentage": "2.08%"
       },
       {
         "id": "21_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Cute Barbie'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "21_secret_3",
+        "name": "Secret 'Animal Cotty'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "21_secret_4",
+        "name": "Secret 'Hero Superman'",
+        "percentage": "2.08%"
       }
     ],
     "id": 21,
     "name": "Series 21",
-    "year": 2006,
-    "month": 2
+    "year": 2010,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "22_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "22_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "22_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "22_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "22_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "22_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "22_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "22_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "22_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "22_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "22_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "22_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "22_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "11.45%"
       },
       {
         "id": "22_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "22_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "22_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
+      },
+      {
+        "id": "22_standard_8",
+        "name": "Hero",
+        "percentage": "7.29%"
       }
     ],
     "artist": [
       {
         "id": "22_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Sasquatchfabrix'",
+        "percentage": "1.04%"
       },
       {
         "id": "22_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'House of Pain'",
+        "percentage": "6.25%"
       }
     ],
     "secret": [
       {
         "id": "22_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Pattern UNO'",
+        "percentage": "4.16%"
       },
       {
         "id": "22_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Medicom Toy 15th Anniversary'",
+        "percentage": "1.04%"
       }
     ],
     "id": 22,
     "name": "Series 22",
-    "year": 2006,
-    "month": 5
+    "year": 2011,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "23_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "23_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "23_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "23_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "23_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "23_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "23_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "23_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "23_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "23_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "23_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "23_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "23_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "SF #1",
+        "percentage": "10.42%"
       },
       {
         "id": "23_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "SF #2",
+        "percentage": "6.25%"
       },
       {
         "id": "23_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Cute #1",
+        "percentage": "6.25%"
       },
       {
         "id": "23_standard_7",
+        "name": "Cute #2",
+        "percentage": "6.25%"
+      },
+      {
+        "id": "23_standard_8",
+        "name": "Hero",
+        "percentage": "5.21%"
+      },
+      {
+        "id": "23_standard_9",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       }
     ],
     "artist": [
       {
         "id": "23_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Muveil'",
+        "percentage": "4.16%"
       },
       {
         "id": "23_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Mishka'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "23_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Animal Rune'",
+        "percentage": "4.16%"
       },
       {
         "id": "23_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Mawaru Penguindrum'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "23_secret_3",
+        "name": "Secret 'SF Real Steel Zeus'",
+        "percentage": "2.08%"
       }
     ],
     "id": 23,
     "name": "Series 23",
-    "year": 2006,
-    "month": 8
+    "year": 2011,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "24_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "24_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "24_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "24_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "24_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "24_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "24_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "24_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "24_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "24_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "24_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "24_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "24_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "24_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "Cute",
+        "percentage": "10.42%"
       },
       {
         "id": "24_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Animal",
+        "percentage": "7.29%"
       },
       {
         "id": "24_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
+        "name": "Hero",
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "24_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Kyary Pamyu Pamyu'",
+        "percentage": "6.25%"
       },
       {
         "id": "24_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'tarout'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "24_artist_3",
+        "name": "Artist 'Neighborhood'",
+        "percentage": "4.16%"
       }
     ],
     "secret": [
       {
         "id": "24_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Horror Gekidan Inu Curry'",
+        "percentage": "2.08%"
       },
       {
         "id": "24_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Cute Fueki'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "24_secret_3",
+        "name": "Secret 'Hero Catwoman'",
+        "percentage": "5.21%"
       }
     ],
     "id": 24,
     "name": "Series 24",
-    "year": 2006,
-    "month": 11
+    "year": 2012,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "25_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "25_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "25_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "25_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "25_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "25_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.04%"
       },
       {
         "id": "25_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "25_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       },
       {
         "id": "25_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.04%"
       }
     ],
     "standard": [
       {
         "id": "25_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "25_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "25_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "25_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "25_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "25_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "4.16%"
       },
       {
         "id": "25_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
+      },
+      {
+        "id": "25_standard_8",
+        "name": "Hero",
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "25_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Yoshimoto Kogyo'",
+        "percentage": "5.21%"
       },
       {
         "id": "25_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Sebastian Masuda'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "25_artist_3",
+        "name": "Artist 'Giza'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "25_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'SF Evangelion 3.0'",
+        "percentage": "4.16%"
       },
       {
         "id": "25_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Hero Accel World'",
+        "percentage": "3.13%"
       }
     ],
     "id": 25,
     "name": "Series 25",
-    "year": 2007,
-    "month": 2
+    "year": 2012,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "26_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "26_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "26_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "26_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "26_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "26_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "26_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "26_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "26_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "26_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "26_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "26_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "26_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "26_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "10.42%"
       },
       {
         "id": "26_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "26_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
+      },
+      {
+        "id": "26_standard_8",
+        "name": "Hero",
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "26_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Muveil'",
+        "percentage": "2.08%"
       },
       {
         "id": "26_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Yoshimoto Kogyo - Shingo Fujimori'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "26_artist_3",
+        "name": "Artist 'Yoshimoto Kogyo - Atsuhiko Nakata'",
+        "percentage": "4.16%"
       }
     ],
     "secret": [
       {
         "id": "26_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Hero Kick-Ass 2'",
+        "percentage": "3.13%"
       },
       {
         "id": "26_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Stussy'",
+        "percentage": "0.52%"
       }
     ],
     "id": 26,
     "name": "Series 26",
-    "year": 2007,
-    "month": 5
+    "year": 2013,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "27_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "27_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "27_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "27_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "27_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "27_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "27_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "27_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "27_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "27_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "9.37%"
       },
       {
         "id": "27_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "27_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.37%"
       },
       {
         "id": "27_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "9.37%"
       },
       {
         "id": "27_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "27_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "27_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
+      },
+      {
+        "id": "27_standard_8",
+        "name": "Hero",
+        "percentage": "7.29%"
       }
     ],
     "artist": [
       {
         "id": "27_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Kiyoshiro Imawano'",
+        "percentage": "6.25%"
       },
       {
         "id": "27_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'D*Face'",
+        "percentage": "2.08%"
       }
     ],
     "secret": [
       {
         "id": "27_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Artist Kiyoshiro Imawano'",
+        "percentage": "4.16%"
       },
       {
         "id": "27_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Cute Nuigurumaa Z'",
+        "percentage": "3.16%"
+      },
+      {
+        "id": "27_secret_3",
+        "name": "Secret 'Hero Lion Man'",
+        "percentage": "2.08%"
       }
     ],
     "id": 27,
     "name": "Series 27",
-    "year": 2007,
-    "month": 8
+    "year": 2013,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "28_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "28_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "28_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "28_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "28_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "28_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "28_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "28_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "28_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "28_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "28_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "28_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "28_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "28_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "28_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "28_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
+      },
+      {
+        "id": "28_standard_8",
+        "name": "Hero",
+        "percentage": "9.38%"
       }
     ],
     "artist": [
       {
         "id": "28_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Oshikiri Hasukai'",
+        "percentage": "4.16%"
       },
       {
         "id": "28_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'CLOT'",
+        "percentage": "2.08%"
       }
     ],
     "secret": [
       {
         "id": "28_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Hero Halo'",
+        "percentage": "4.16%"
       },
       {
         "id": "28_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Artist CLOT'",
+        "percentage": "2.6%"
+      },
+      {
+        "id": "28_secret_3",
+        "name": "Secret 'Pushead'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "28_secret_4",
+        "name": "Secret 'Cosmos Project'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "28_secret_5",
+        "name": "Secret 'Getter Robo'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "28_secret_6",
+        "name": "Secret 'My Sweet Monster'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "28_secret_7",
+        "name": "Secret 'Hazure'",
+        "percentage": "0.52%"
       }
     ],
     "id": 28,
     "name": "Series 28",
-    "year": 2007,
-    "month": 11
+    "year": 2014,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "29_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "29_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "29_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "29_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "29_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "29_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "29_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "29_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "29_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "29_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "29_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "29_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "29_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "2.08%"
       },
       {
         "id": "29_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "Cute",
+        "percentage": "8.33%"
       },
       {
         "id": "29_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Animal",
+        "percentage": "8.33%"
       },
       {
         "id": "29_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
+        "name": "Hero",
+        "percentage": "9.38%"
       }
     ],
     "artist": [
       {
         "id": "29_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Sex Pistols'",
+        "percentage": "4.16%"
       },
       {
         "id": "29_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Grateful Dead'",
+        "percentage": "9.38%"
       }
     ],
     "secret": [
       {
         "id": "29_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Marvel'",
+        "percentage": "9.38%"
       },
       {
         "id": "29_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Artist Grateful Dead'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "29_secret_3",
+        "name": "Secret 'Artist Sex Pistols'",
+        "percentage": "2.6%"
+      },
+      {
+        "id": "29_secret_4",
+        "name": "Secret 'Great Mazinger'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "29_secret_5",
+        "name": "Secret 'Yohkan-san'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "29_secret_6",
+        "name": "Secret 'Chinese Greeting'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "29_secret_7",
+        "name": "Secret 'Porter'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "29_secret_8",
+        "name": "Secret 'Haniwa'",
+        "percentage": "0.52%"
       }
     ],
     "id": 29,
     "name": "Series 29",
-    "year": 2008,
-    "month": 2
+    "year": 2014,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "30_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "30_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "30_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "30_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "30_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "30_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "30_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "30_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "30_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "30_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "30_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "30_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "30_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "30_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "30_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "30_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       }
     ],
     "artist": [
       {
         "id": "30_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Gakki-kun'",
+        "percentage": "9.38%"
       },
       {
         "id": "30_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Nyaromeron'",
+        "percentage": "3.12%"
+      },
+      {
+        "id": "30_artist_3",
+        "name": "Artist 'Ao Oni'",
+        "percentage": "4.16%"
       }
     ],
     "secret": [
       {
         "id": "30_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret '30th Series'",
+        "percentage": "0.52%"
       },
       {
         "id": "30_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Oakley'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "30_secret_3",
+        "name": "Secret 'Grendizer'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "30_secret_4",
+        "name": "Secret 'R@bbrick'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "30_secret_5",
+        "name": "Secret 'Kyoko Shimbun'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "30_secret_6",
+        "name": "Secret 'Artist Gakki-kun'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "30_secret_7",
+        "name": "Secret 'Pattern'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "30_secret_8",
+        "name": "Secret 'The Hideout'",
+        "percentage": "0.52%"
       }
     ],
     "id": 30,
     "name": "Series 30",
-    "year": 2008,
-    "month": 5
+    "year": 2015,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "31_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "31_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "31_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "31_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "31_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "31_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "31_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "31_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "31_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "31_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "31_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "31_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "31_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "31_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "31_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "31_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
+      },
+      {
+        "id": "31_standard_8",
+        "name": "Hero",
+        "percentage": "8.33%"
       }
     ],
     "artist": [
       {
         "id": "31_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Yusuke Hanai'",
+        "percentage": "2.08%"
       },
       {
         "id": "31_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Yokai Mames'",
+        "percentage": "6.25%"
       }
     ],
     "secret": [
       {
         "id": "31_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Kaiju Negora'",
+        "percentage": "0.52%"
       },
       {
         "id": "31_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'TMT 15th Anniversary'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "31_secret_3",
+        "name": "Secret 'Tanuki no Pokopon'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "31_secret_4",
+        "name": "Secret 'Ponkotsu Quest'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "31_secret_5",
+        "name": "Secret 'Kotetsu Jeeg'",
+        "percentage": "1.04%"
+      },
+      {
+        "id": "31_secret_6",
+        "name": "Secret 'Horror Warrior Alien'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "31_secret_7",
+        "name": "Secret 'Hero Wonder Woman'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "31_secret_8",
+        "name": "Secret 'Artist Yokai Mames'",
+        "percentage": "3.13%"
       }
     ],
     "id": 31,
     "name": "Series 31",
-    "year": 2008,
-    "month": 8
+    "year": 2015,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "32_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "32_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "32_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "32_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "32_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "32_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "32_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "32_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "32_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "32_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "32_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "32_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "32_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "Villain",
+        "percentage": "8.33%"
       },
       {
         "id": "32_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "32_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "32_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
+      },
+      {
+        "id": "32_standard_8",
+        "name": "Hero",
+        "percentage": "6.25%"
       }
     ],
     "artist": [
       {
         "id": "32_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Shoko Nakazawa'",
+        "percentage": "3.13%"
       },
       {
         "id": "32_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Osamu Tezuka x Fujio Akatsuka'",
+        "percentage": "6.25%"
+      },
+      {
+        "id": "32_artist_3",
+        "name": "Artist 'Tomohito Yamada'",
+        "percentage": "1.04%"
       }
     ],
     "secret": [
       {
         "id": "32_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'LONG x Mishka'",
+        "percentage": "0.52%"
       },
       {
         "id": "32_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'NAGNAGNAG'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "32_secret_3",
+        "name": "Secret 'Ny@brick'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "32_secret_4",
+        "name": "Secret 'Gaiking'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "32_secret_5",
+        "name": "Secret 'NAGNAGNAG Ver.2'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "32_secret_6",
+        "name": "Secret 'Be@rbrick 15th Anniversary'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "32_secret_7",
+        "name": "Secret 'Cute Cookie Monster'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "32_secret_8",
+        "name": "Secret 'Artist Osamu Tezuka x Fujio Akatsuka'",
+        "percentage": "3.13%"
+      },
+      {
+        "id": "32_secret_9",
+        "name": "Secret 'Hero Genos'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "32_secret_10",
+        "name": "Secret 'Villain Harley Quinn'",
+        "percentage": "2.08%"
       }
     ],
     "id": 32,
     "name": "Series 32",
-    "year": 2008,
-    "month": 11
+    "year": 2016,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "33_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "33_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "33_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "33_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "33_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "33_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "33_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "33_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "33_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "33_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "33_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "33_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "33_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "SF",
+        "percentage": "9.38%"
       },
       {
         "id": "33_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "Cute",
+        "percentage": "9.38%"
       },
       {
         "id": "33_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Animal",
+        "percentage": "8.33%"
       },
       {
         "id": "33_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
+        "name": "Hero",
+        "percentage": "6.25%"
       }
     ],
     "artist": [
       {
         "id": "33_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'DAN'",
+        "percentage": "6.25%"
       },
       {
         "id": "33_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Poptepipic'",
+        "percentage": "1.04%"
+      },
+      {
+        "id": "33_artist_3",
+        "name": "Artist 'Mecha Elvis'",
+        "percentage": "4.16%"
       }
     ],
     "secret": [
       {
         "id": "33_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'SF Ghostbusters'",
+        "percentage": "0%"
       },
       {
         "id": "33_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Cute Astro Boy'",
+        "percentage": "0%"
+      },
+      {
+        "id": "33_secret_3",
+        "name": "Secret 'Animal Maneki Neko'",
+        "percentage": "0%"
+      },
+      {
+        "id": "33_secret_4",
+        "name": "Secret 'Hero Tonkatsu DJ Agetarou'",
+        "percentage": "0%"
+      },
+      {
+        "id": "33_secret_5",
+        "name": "Secret 'Punk Drunkers'",
+        "percentage": "0%"
+      },
+      {
+        "id": "33_secret_6",
+        "name": "Secret 'Redman'",
+        "percentage": "0%"
+      },
+      {
+        "id": "33_secret_7",
+        "name": "Secret 'True Mazinger'",
+        "percentage": "0%"
+      },
+      {
+        "id": "33_secret_8",
+        "name": "Secret 'Loopwheeler'",
+        "percentage": "0%"
+      },
+      {
+        "id": "33_secret_9",
+        "name": "Secret 'Jackpot Fever'",
+        "percentage": "0%"
       }
     ],
     "id": 33,
     "name": "Series 33",
-    "year": 2009,
-    "month": 2
+    "year": 2016,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "34_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "34_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "34_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "34_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "34_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "34_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "34_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "34_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "34_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "34_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "34_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "34_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "34_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "34_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "34_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Animal #1",
+        "percentage": "6.25%"
       },
       {
         "id": "34_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
+        "name": "Animal #2",
+        "percentage": "6.25%"
+      },
+      {
+        "id": "34_standard_8",
+        "name": "Cute",
+        "percentage": "8.33%"
+      },
+      {
+        "id": "34_standard_9",
+        "name": "Hero",
+        "percentage": "6.25%"
       }
     ],
     "artist": [
       {
         "id": "34_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Nagano'",
+        "percentage": "4.16%"
       },
       {
         "id": "34_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Tiger Mask'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "34_artist_3",
+        "name": "Artist 'Inu-Harigon'",
+        "percentage": "2.08%"
       }
     ],
     "secret": [
       {
         "id": "34_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'SF Despicable Me 3'",
+        "percentage": "0%"
       },
       {
         "id": "34_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Cute Fuchico on the Cup'",
+        "percentage": "0%"
+      },
+      {
+        "id": "34_secret_3",
+        "name": "Secret 'Artist Nagano'",
+        "percentage": "0%"
+      },
+      {
+        "id": "34_secret_4",
+        "name": "Secret 'Artist Tiger Mask'",
+        "percentage": "0%"
+      },
+      {
+        "id": "34_secret_5",
+        "name": "Secret 'The IT Bear'",
+        "percentage": "0%"
+      },
+      {
+        "id": "34_secret_6",
+        "name": "Secret 'UFO Warrior Dai Apolon'",
+        "percentage": "0%"
+      },
+      {
+        "id": "34_secret_7",
+        "name": "Secret 'Pug - Brown'",
+        "percentage": "0%"
+      },
+      {
+        "id": "34_secret_8",
+        "name": "Secret 'Pug - Grey'",
+        "percentage": "0%"
+      },
+      {
+        "id": "34_secret_9",
+        "name": "Secret 'SSUR'",
+        "percentage": "0%"
       }
     ],
     "id": 34,
     "name": "Series 34",
-    "year": 2009,
-    "month": 5
+    "year": 2017,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "35_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "35_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "35_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "35_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "35_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "35_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "35_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "35_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "35_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "35_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "35_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "35_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "35_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "SF",
+        "percentage": "9.38%"
       },
       {
         "id": "35_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "Cute",
+        "percentage": "8.33%"
       },
       {
         "id": "35_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Animal",
+        "percentage": "6.25%"
       },
       {
         "id": "35_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
+        "name": "Hero",
+        "percentage": "6.25%"
       }
     ],
     "artist": [
       {
         "id": "35_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Warui-chan'",
+        "percentage": "2.08%"
       },
       {
         "id": "35_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Tokyo Tribe Waru'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "35_artist_3",
+        "name": "Artist 'New Rote'ka'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "35_artist_4",
+        "name": "Artist 'Dolphin-kun'",
+        "percentage": "6.25%"
       }
     ],
     "secret": [
       {
         "id": "35_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'SF Armored Trooper VOTOMS'",
+        "percentage": "4.16%"
       },
       {
         "id": "35_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Cute Pokopang'",
+        "percentage": "6.25%"
+      },
+      {
+        "id": "35_secret_3",
+        "name": "Secret 'Artist Warui-chan'",
+        "percentage": "1.52%"
+      },
+      {
+        "id": "35_secret_4",
+        "name": "Secret 'Artist Tokyo Tribe Waru'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "35_secret_5",
+        "name": "Secret 'Artist Dolphin-kun'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "35_secret_6",
+        "name": "Secret 'Rikidizer 3 - Ver. 1'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "35_secret_7",
+        "name": "Secret 'Rikidizer 3 - Ver. 2'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "35_secret_8",
+        "name": "Secret 'God of Wealth'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "35_secret_9",
+        "name": "Secret 'Red Oni Shinobu'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "35_secret_10",
+        "name": "Secret 'Kyne'",
+        "percentage": "0.52%"
       }
     ],
     "id": 35,
     "name": "Series 35",
-    "year": 2009,
-    "month": 8
+    "year": 2017,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "36_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "36_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "36_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "36_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "36_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "36_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "36_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "36_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "36_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "36_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "36_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "36_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "36_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "36_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "36_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "36_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
+      },
+      {
+        "id": "36_standard_8",
+        "name": "Hero",
+        "percentage": "6.25%"
       }
     ],
     "artist": [
       {
         "id": "36_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Masumi Hara'",
+        "percentage": "4.16%"
       },
       {
         "id": "36_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Coiss'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "36_artist_3",
+        "name": "Artist 'Morris The Cat with Antlers'",
+        "percentage": "2.08%"
       }
     ],
     "secret": [
       {
         "id": "36_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Horror It'",
+        "percentage": "4.16%"
       },
       {
         "id": "36_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Hero Kingsman: The Secret Service'",
+        "percentage": "6.25%"
+      },
+      {
+        "id": "36_secret_3",
+        "name": "Secret 'Artist Morris The Cat with Antlers'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "36_secret_4",
+        "name": "Secret 'Irasutoya'",
+        "percentage": "1.56%"
+      },
+      {
+        "id": "36_secret_5",
+        "name": "Secret 'JAM HOME MADE'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "36_secret_6",
+        "name": "Secret 'PostPet'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "36_secret_7",
+        "name": "Secret 'God Selection XXX - White'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "36_secret_8",
+        "name": "Secret 'God Selection XXX - Black'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "36_secret_9",
+        "name": "Secret 'Mirrorman'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "36_secret_10",
+        "name": "Secret 'CLOT'",
+        "percentage": "2.08%"
       }
     ],
     "id": 36,
     "name": "Series 36",
-    "year": 2009,
-    "month": 11
+    "year": 2018,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "37_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "37_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "37_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "37_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "37_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "37_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "37_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "37_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "37_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "37_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "37_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "37_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "37_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "4.16%"
       },
       {
         "id": "37_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "4.16%"
       },
       {
         "id": "37_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "37_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
+      },
+      {
+        "id": "37_standard_8",
+        "name": "Hero",
+        "percentage": "6.25%"
       }
     ],
     "artist": [
       {
         "id": "37_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Kenny Omega'",
+        "percentage": "4.16%"
       },
       {
         "id": "37_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'hermippe'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "37_artist_3",
+        "name": "Artist 'Noodle'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "37_artist_4",
+        "name": "Artist 'Otter Chi-tan'",
+        "percentage": "8.33%"
+      },
+      {
+        "id": "37_artist_5",
+        "name": "Artist 'Cat Eyed Boy'",
+        "percentage": "6.25%"
       }
     ],
     "secret": [
       {
         "id": "37_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Horror One Cut of the Dead'",
+        "percentage": "0%"
       },
       {
         "id": "37_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'SF Jason and the Argonauts'",
+        "percentage": "0%"
+      },
+      {
+        "id": "37_secret_3",
+        "name": "Secret 'Artist New Japan Pro-Wrestling'",
+        "percentage": "0%"
+      },
+      {
+        "id": "37_secret_4",
+        "name": "Secret 'Artist Cat Eyed Boy'",
+        "percentage": "0%"
+      },
+      {
+        "id": "37_secret_5",
+        "name": "Secret 'SOPH.20'",
+        "percentage": "0%"
+      },
+      {
+        "id": "37_secret_6",
+        "name": "Secret 'GEO'",
+        "percentage": "0%"
+      },
+      {
+        "id": "37_secret_7",
+        "name": "Secret 'Kiaidakun'",
+        "percentage": "0%"
+      },
+      {
+        "id": "37_secret_8",
+        "name": "Secret 'Aliens Park'",
+        "percentage": "0%"
       }
     ],
     "id": 37,
     "name": "Series 37",
-    "year": 2010,
-    "month": 2
+    "year": 2018,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "38_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "38_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "38_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "38_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "38_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "38_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "38_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "38_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "38_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "38_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "38_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "38_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "38_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "Villain",
+        "percentage": "4.16%"
       },
       {
         "id": "38_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "5.21%"
       },
       {
         "id": "38_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "38_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
+      },
+      {
+        "id": "38_standard_8",
+        "name": "Hero",
+        "percentage": "6.25%"
       }
     ],
     "artist": [
       {
         "id": "38_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Hiroshi Tanahashi'",
+        "percentage": "4.16%"
       },
       {
         "id": "38_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Anti Social Social Club'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "38_artist_3",
+        "name": "Artist 'Ookami-kun'",
+        "percentage": "8.33%"
+      },
+      {
+        "id": "38_artist_4",
+        "name": "Artist 'Lauren Tsai'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "38_artist_5",
+        "name": "Artist 'Makoto-chan'",
+        "percentage": "6.25%"
       }
     ],
     "secret": [
       {
         "id": "38_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Hero Men in Black'",
+        "percentage": "4.16%"
       },
       {
         "id": "38_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Artist Makoto-chan'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "38_secret_3",
+        "name": "Secret 'Bullmark'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "38_secret_4",
+        "name": "Secret 'Mame Moyashi'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "38_secret_5",
+        "name": "Secret 'A&P'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "38_secret_6",
+        "name": "Secret 'Botanize'",
+        "percentage": "0.52%"
       }
     ],
     "id": 38,
     "name": "Series 38",
-    "year": 2010,
-    "month": 5
+    "year": 2019,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "39_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "39_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "39_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "39_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "39_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "39_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "39_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "39_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "39_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "39_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "39_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "39_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "5.21%"
       },
       {
         "id": "39_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "Villain",
+        "percentage": "4.16%"
       },
       {
         "id": "39_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "39_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Cute #1",
+        "percentage": "4.16%"
       },
       {
         "id": "39_standard_7",
+        "name": "Cute #2",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "39_standard_8",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
+      },
+      {
+        "id": "39_standard_9",
+        "name": "Hero",
+        "percentage": "6.25%"
       }
     ],
     "artist": [
       {
         "id": "39_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'PiL'",
+        "percentage": "8.33%"
       },
       {
         "id": "39_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Have A Good Time'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "39_artist_3",
+        "name": "Artist 'Ed Paschke'",
+        "percentage": "8.33%"
+      },
+      {
+        "id": "39_artist_4",
+        "name": "Artist 'A Bear Cub Ice'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "39_artist_5",
+        "name": "Artist 'Brigsby Bear'",
+        "percentage": "6.25%"
       }
     ],
     "secret": [
       {
         "id": "39_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Villain Harley Quinn'",
+        "percentage": "2.08%"
       },
       {
         "id": "39_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Jun Inagawa'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "39_secret_3",
+        "name": "Secret 'READYMADE x F.C. Real Bristol'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "39_secret_4",
+        "name": "Secret 'Seirogan'",
+        "percentage": "1.04%"
       }
     ],
     "id": 39,
     "name": "Series 39",
-    "year": 2010,
-    "month": 8
+    "year": 2019,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "40_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "40_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "40_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "40_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "40_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "40_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "40_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "40_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "40_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "40_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "40_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "40_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "5.21%"
       },
       {
         "id": "40_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "40_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "40_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "40_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
+      },
+      {
+        "id": "40_standard_8",
+        "name": "Hero",
+        "percentage": "7.29%"
       }
     ],
     "artist": [
       {
         "id": "40_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Denshitako No.3'",
+        "percentage": "5.21%"
       },
       {
         "id": "40_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Kae Tanaka'",
+        "percentage": "5.21%"
+      },
+      {
+        "id": "40_artist_3",
+        "name": "Artist 'ADER'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "40_artist_4",
+        "name": "Artist 'Miles'",
+        "percentage": "4.16%"
       }
     ],
     "secret": [
       {
         "id": "40_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'SF Robi'",
+        "percentage": "0%"
       },
       {
         "id": "40_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Cute Peanuts'",
+        "percentage": "0%"
+      },
+      {
+        "id": "40_secret_3",
+        "name": "Secret 'F.C. Real Bristol x Coca-Cola'",
+        "percentage": "0%"
+      },
+      {
+        "id": "40_secret_4",
+        "name": "Secret 'Toyota'",
+        "percentage": "0%"
+      },
+      {
+        "id": "40_secret_5",
+        "name": "Secret 'Hazure'",
+        "percentage": "0%"
+      },
+      {
+        "id": "40_secret_6",
+        "name": "Secret 'Snarkitecture x BLACkRAINBOW'",
+        "percentage": "0%"
+      },
+      {
+        "id": "40_secret_7",
+        "name": "Secret 'Coin Parking Delivery'",
+        "percentage": "0%"
       }
     ],
     "id": 40,
     "name": "Series 40",
-    "year": 2010,
-    "month": 11
+    "year": 2020,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "41_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "41_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "41_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "41_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "41_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "41_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "41_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "41_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "41_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "41_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "41_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "9.38%"
       },
       {
         "id": "41_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "5.21%"
       },
       {
         "id": "41_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "41_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "41_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "41_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
+        "name": "Animal #1",
+        "percentage": "5.21%"
+      },
+      {
+        "id": "41_standard_8",
+        "name": "Animal #2",
+        "percentage": "5.21%"
       }
     ],
     "artist": [
       {
         "id": "41_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Yoshiharu Tsuge'",
+        "percentage": "4.16%"
       },
       {
         "id": "41_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'Mutant Vinyl Hardcore'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "41_artist_3",
+        "name": "Artist 'Billionaire Boys Club'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "41_artist_4",
+        "name": "Artist 'It's 8:16! Yunomi de Coffee'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "41_artist_5",
+        "name": "Artist 'Moyoco Anno #1'",
+        "percentage": "4.16%"
+      },
+      {
+        "id": "41_artist_6",
+        "name": "Artist 'Moyoco Anno #2'",
+        "percentage": "4.16%"
       }
     ],
     "secret": [
       {
         "id": "41_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'SF The Boys'",
+        "percentage": "4.16%"
       },
       {
         "id": "41_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Cute Momoko Sakura'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "41_secret_3",
+        "name": "Secret '1st Model - White Chrome'",
+        "percentage": "1.04%"
+      },
+      {
+        "id": "41_secret_4",
+        "name": "Secret 'mesm Tokyo'",
+        "percentage": "0.52%"
+      },
+      {
+        "id": "41_secret_5",
+        "name": "Secret 'Brandalism'",
+        "percentage": "1.04%"
+      },
+      {
+        "id": "41_secret_6",
+        "name": "Secret 'Danganronpa'",
+        "percentage": "0.52%"
       }
     ],
     "id": 41,
     "name": "Series 41",
-    "year": 2011,
-    "month": 2
+    "year": 2020,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "42_basic_1",
         "name": "Basic 'B'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "42_basic_2",
         "name": "Basic 'E'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "42_basic_3",
         "name": "Basic '@'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "42_basic_4",
         "name": "Basic 'R'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "42_basic_5",
         "name": "Basic 'b'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "42_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
+        "name": "Basic 'R'",
+        "percentage": "1.62%"
       },
       {
         "id": "42_basic_7",
         "name": "Basic 'I'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "42_basic_8",
         "name": "Basic 'C'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       },
       {
         "id": "42_basic_9",
         "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "percentage": "1.62%"
       }
     ],
     "standard": [
       {
         "id": "42_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "42_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "5.2%"
       },
       {
         "id": "42_standard_3",
         "name": "Flag",
-        "percentage": "12.5%"
+        "percentage": "5.2%"
       },
       {
         "id": "42_standard_4",
         "name": "Horror",
-        "percentage": "12.5%"
+        "percentage": "6.25%"
       },
       {
         "id": "42_standard_5",
         "name": "SF",
-        "percentage": "12.5%"
+        "percentage": "8.33%"
       },
       {
         "id": "42_standard_6",
         "name": "Cute",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
       },
       {
         "id": "42_standard_7",
         "name": "Animal",
-        "percentage": "12.5%"
+        "percentage": "7.29%"
+      },
+      {
+        "id": "42_standard_8",
+        "name": "Hero #1",
+        "percentage": "2.6%"
+      },
+      {
+        "id": "42_standard_9",
+        "name": "Hero #2",
+        "percentage": "2.6%"
       }
     ],
     "artist": [
       {
         "id": "42_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Artist 'Andy Warhol x Jean-Michel Basquiat'",
+        "percentage": "4.17%"
       },
       {
         "id": "42_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist 'EXIT'",
+        "percentage": "4.17%"
+      },
+      {
+        "id": "42_artist_3",
+        "name": "Artist 'A Girl: Kaiju Icey's Owner'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "42_artist_4",
+        "name": "Artist 'PHANTOM'",
+        "percentage": "2.08%"
+      },
+      {
+        "id": "42_artist_5",
+        "name": "Artist 'mintdesigns'",
+        "percentage": "4.17%"
       }
     ],
     "secret": [
       {
         "id": "42_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "name": "Secret 'Horror Dracula'",
+        "percentage": "0%"
       },
       {
         "id": "42_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret 'Cute Minions: The Rise of Gru'",
+        "percentage": "0%"
+      },
+      {
+        "id": "42_secret_3",
+        "name": "Secret 'Maneki Neko'",
+        "percentage": "0%"
+      },
+      {
+        "id": "42_secret_4",
+        "name": "Secret 'atmos'",
+        "percentage": "0%"
+      },
+      {
+        "id": "42_secret_5",
+        "name": "Secret 'Medicom Toy 25th Anniversary'",
+        "percentage": "0%"
+      },
+      {
+        "id": "42_secret_6",
+        "name": "Secret 'Be@rbrick 20th Anniversary'",
+        "percentage": "0%"
       }
     ],
     "id": 42,
     "name": "Series 42",
-    "year": 2011,
-    "month": 5
+    "year": 2021,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "43_basic_1",
-        "name": "Basic 'B'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "43_basic_2",
-        "name": "Basic 'E'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "43_basic_3",
-        "name": "Basic '@'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "43_basic_4",
-        "name": "Basic 'R'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "43_basic_5",
-        "name": "Basic 'b'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "43_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "43_basic_7",
-        "name": "Basic 'I'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "43_basic_8",
-        "name": "Basic 'C'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "43_basic_9",
-        "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "name": "Basic",
+        "percentage": "14.58%"
       }
     ],
     "standard": [
       {
         "id": "43_standard_1",
         "name": "Jellybean",
-        "percentage": "12.5%"
+        "percentage": "14.58%"
       },
       {
         "id": "43_standard_2",
         "name": "Pattern",
-        "percentage": "12.5%"
+        "percentage": "14.58%"
       },
       {
         "id": "43_standard_3",
-        "name": "Flag",
-        "percentage": "12.5%"
+        "name": "Macau Flag",
+        "percentage": "14.58%"
       },
       {
         "id": "43_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "Alfred Hitchcock",
+        "percentage": "6.25%"
       },
       {
         "id": "43_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "Terminator 2",
+        "percentage": "0%"
       },
       {
         "id": "43_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Spike Gremlins 2",
+        "percentage": "0%"
       },
       {
         "id": "43_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
-      }
-    ],
-    "artist": [
-      {
-        "id": "43_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Gizmo Gremlins 2",
+        "percentage": "0%"
       },
       {
-        "id": "43_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "id": "43_standard_8",
+        "name": "Friendship Care Bear",
+        "percentage": "0%"
+      },
+      {
+        "id": "43_standard_9",
+        "name": "Batman Hush",
+        "percentage": "0%"
+      },
+      {
+        "id": "43_standard_10",
+        "name": "Robin the Cat",
+        "percentage": "0%"
+      },
+      {
+        "id": "43_standard_11",
+        "name": "Gelato Pique – Green White Striped",
+        "percentage": "0%"
+      },
+      {
+        "id": "43_standard_12",
+        "name": "Gelato Pique – Brownish",
+        "percentage": "0%"
+      },
+      {
+        "id": "43_standard_13",
+        "name": "Black Outfit Cobra Kai",
+        "percentage": "0%"
+      },
+      {
+        "id": "43_standard_14",
+        "name": "White Cobra Kai",
+        "percentage": "0%"
+      },
+      {
+        "id": "43_standard_15",
+        "name": "Andy Mouse by Keith Haring",
+        "percentage": "0%"
+      },
+      {
+        "id": "43_standard_16",
+        "name": "Crazy Cat Rabbit",
+        "percentage": "0%"
+      },
+      {
+        "id": "43_standard_17",
+        "name": "Netflix",
+        "percentage": "0%"
+      },
+      {
+        "id": "43_standard_18",
+        "name": "NFT",
+        "percentage": "0%"
+      },
+      {
+        "id": "43_standard_19",
+        "name": "Pushead",
+        "percentage": "0%"
       }
     ],
+    "artist": [],
     "secret": [
       {
         "id": "43_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "43_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "name": "Secret Care Bear",
+        "percentage": "0%"
       }
     ],
     "id": 43,
     "name": "Series 43",
-    "year": 2011,
-    "month": 8
+    "year": 2022,
+    "month": 1
   },
   {
     "basic": [
       {
         "id": "44_basic_1",
-        "name": "Basic 'B'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "44_basic_2",
-        "name": "Basic 'E'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "44_basic_3",
-        "name": "Basic '@'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "44_basic_4",
-        "name": "Basic 'R'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "44_basic_5",
-        "name": "Basic 'b'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "44_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "44_basic_7",
-        "name": "Basic 'I'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "44_basic_8",
-        "name": "Basic 'C'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "44_basic_9",
-        "name": "Basic 'K'",
-        "percentage": "1.11%"
+        "name": "Basic",
+        "percentage": "0%"
       }
     ],
     "standard": [
       {
         "id": "44_standard_1",
-        "name": "Jellybean",
-        "percentage": "12.5%"
+        "name": "Coffee Bean",
+        "percentage": "0%"
       },
       {
         "id": "44_standard_2",
-        "name": "Pattern",
-        "percentage": "12.5%"
+        "name": "Fire",
+        "percentage": "0%"
       },
       {
         "id": "44_standard_3",
-        "name": "Flag",
-        "percentage": "12.5%"
+        "name": "South Korean Flag",
+        "percentage": "0%"
       },
       {
         "id": "44_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "Squid Game",
+        "percentage": "0%"
       },
       {
         "id": "44_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "Stranger Things Logo",
+        "percentage": "0%"
       },
       {
         "id": "44_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Green Guy",
+        "percentage": "0%"
       },
       {
         "id": "44_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
+        "name": "Basquiat Dino",
+        "percentage": "0%"
+      },
+      {
+        "id": "44_standard_8",
+        "name": "Shin Ultraman",
+        "percentage": "0%"
+      },
+      {
+        "id": "44_standard_9",
+        "name": "007 James Bond",
+        "percentage": "0%"
+      },
+      {
+        "id": "44_standard_10",
+        "name": "Junk Head",
+        "percentage": "0%"
+      },
+      {
+        "id": "44_standard_11",
+        "name": "Czar Face",
+        "percentage": "0%"
+      },
+      {
+        "id": "44_standard_12",
+        "name": "Red & Blue Person",
+        "percentage": "0%"
       }
     ],
     "artist": [
       {
         "id": "44_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "44_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
+        "name": "Artist",
+        "percentage": "0%"
       }
     ],
-    "secret": [
-      {
-        "id": "44_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "44_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
-      }
-    ],
+    "secret": [],
     "id": 44,
     "name": "Series 44",
-    "year": 2011,
-    "month": 11
+    "year": 2022,
+    "month": 1
   },
   {
-    "basic": [
-      {
-        "id": "45_basic_1",
-        "name": "Basic 'B'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "45_basic_2",
-        "name": "Basic 'E'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "45_basic_3",
-        "name": "Basic '@'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "45_basic_4",
-        "name": "Basic 'R'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "45_basic_5",
-        "name": "Basic 'b'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "45_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "45_basic_7",
-        "name": "Basic 'I'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "45_basic_8",
-        "name": "Basic 'C'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "45_basic_9",
-        "name": "Basic 'K'",
-        "percentage": "1.11%"
-      }
-    ],
+    "basic": [],
     "standard": [
       {
         "id": "45_standard_1",
-        "name": "Jellybean",
-        "percentage": "12.5%"
+        "name": "Bubble Gum Basic",
+        "percentage": "0%"
       },
       {
         "id": "45_standard_2",
-        "name": "Pattern",
-        "percentage": "12.5%"
+        "name": "Jelly Bean",
+        "percentage": "0%"
       },
       {
         "id": "45_standard_3",
-        "name": "Flag",
-        "percentage": "12.5%"
+        "name": "Jungle",
+        "percentage": "0%"
       },
       {
         "id": "45_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "Scottish Flag",
+        "percentage": "0%"
       },
       {
         "id": "45_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "Emily the Strange",
+        "percentage": "0%"
       },
       {
         "id": "45_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Czarface",
+        "percentage": "0%"
       },
       {
         "id": "45_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
-      }
-    ],
-    "artist": [
-      {
-        "id": "45_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Rilakkuma",
+        "percentage": "0%"
       },
       {
-        "id": "45_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
-      }
-    ],
-    "secret": [
-      {
-        "id": "45_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "id": "45_standard_8",
+        "name": "Baby Puss (Flintstones)",
+        "percentage": "0%"
       },
       {
-        "id": "45_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "id": "45_standard_9",
+        "name": "Black Adam",
+        "percentage": "0%"
+      },
+      {
+        "id": "45_standard_10",
+        "name": "Dynamite Kid (Wrestler)",
+        "percentage": "0%"
+      },
+      {
+        "id": "45_standard_11",
+        "name": "Inu no Kagayaki",
+        "percentage": "0%"
       }
     ],
+    "artist": [],
+    "secret": [],
     "id": 45,
     "name": "Series 45",
-    "year": 2012,
-    "month": 2
+    "year": 2022,
+    "month": 1
   },
   {
-    "basic": [
-      {
-        "id": "46_basic_1",
-        "name": "Basic 'B'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "46_basic_2",
-        "name": "Basic 'E'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "46_basic_3",
-        "name": "Basic '@'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "46_basic_4",
-        "name": "Basic 'R'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "46_basic_5",
-        "name": "Basic 'b'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "46_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "46_basic_7",
-        "name": "Basic 'I'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "46_basic_8",
-        "name": "Basic 'C'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "46_basic_9",
-        "name": "Basic 'K'",
-        "percentage": "1.11%"
-      }
-    ],
+    "basic": [],
     "standard": [
       {
         "id": "46_standard_1",
-        "name": "Jellybean",
-        "percentage": "12.5%"
+        "name": "Gray Tailor Basic",
+        "percentage": "14.58%"
       },
       {
         "id": "46_standard_2",
-        "name": "Pattern",
-        "percentage": "12.5%"
+        "name": "Rice",
+        "percentage": "8.33%"
       },
       {
         "id": "46_standard_3",
-        "name": "Flag",
-        "percentage": "12.5%"
+        "name": "Jon Burgerman",
+        "percentage": "5.2%"
       },
       {
         "id": "46_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "Ukraine Flag",
+        "percentage": "4.16%"
       },
       {
         "id": "46_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "Luke from Street Fighter",
+        "percentage": "4.16%"
       },
       {
         "id": "46_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Ultraman",
+        "percentage": "7.29%"
       },
       {
         "id": "46_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
-      }
-    ],
-    "artist": [
-      {
-        "id": "46_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Sonic the Hedgehog",
+        "percentage": "7.29%"
       },
       {
-        "id": "46_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
-      }
-    ],
-    "secret": [
-      {
-        "id": "46_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "id": "46_standard_8",
+        "name": "Pickles the Frog",
+        "percentage": "7.29%"
       },
       {
-        "id": "46_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "id": "46_standard_9",
+        "name": "Masked Kamen Rider #1",
+        "percentage": "7.29%"
+      },
+      {
+        "id": "46_standard_10",
+        "name": "The Great MUTA Wrestler",
+        "percentage": "3.12%"
+      },
+      {
+        "id": "46_standard_11",
+        "name": "Saint Mxxxxxx",
+        "percentage": "3.12%"
+      },
+      {
+        "id": "46_standard_12",
+        "name": "INU",
+        "percentage": "3.12%"
+      },
+      {
+        "id": "46_standard_13",
+        "name": "Museo Del Prado",
+        "percentage": "2.08%"
       }
     ],
+    "artist": [],
+    "secret": [],
     "id": 46,
     "name": "Series 46",
-    "year": 2012,
-    "month": 5
+    "year": 2023,
+    "month": 1
   },
   {
-    "basic": [
-      {
-        "id": "47_basic_1",
-        "name": "Basic 'B'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "47_basic_2",
-        "name": "Basic 'E'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "47_basic_3",
-        "name": "Basic '@'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "47_basic_4",
-        "name": "Basic 'R'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "47_basic_5",
-        "name": "Basic 'b'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "47_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "47_basic_7",
-        "name": "Basic 'I'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "47_basic_8",
-        "name": "Basic 'C'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "47_basic_9",
-        "name": "Basic 'K'",
-        "percentage": "1.11%"
-      }
-    ],
+    "basic": [],
     "standard": [
       {
         "id": "47_standard_1",
-        "name": "Jellybean",
-        "percentage": "12.5%"
+        "name": "Off-White Tote Bag",
+        "percentage": "14.58%"
       },
       {
         "id": "47_standard_2",
-        "name": "Pattern",
-        "percentage": "12.5%"
+        "name": "Konpeitou Candy",
+        "percentage": "8.33%"
       },
       {
         "id": "47_standard_3",
-        "name": "Flag",
-        "percentage": "12.5%"
+        "name": "Edokko",
+        "percentage": "5.2%"
       },
       {
         "id": "47_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
+        "name": "Austria Flag",
+        "percentage": "4.16%"
       },
       {
         "id": "47_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
+        "name": "M3GAN",
+        "percentage": "4.16%"
       },
       {
         "id": "47_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
+        "name": "Motoko Kusanagi",
+        "percentage": "7.29%"
       },
       {
         "id": "47_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
-      }
-    ],
-    "artist": [
-      {
-        "id": "47_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
+        "name": "Willy Wonka",
+        "percentage": "7.29%"
       },
       {
-        "id": "47_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
-      }
-    ],
-    "secret": [
-      {
-        "id": "47_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
+        "id": "47_standard_8",
+        "name": "Psycho Teddy Bear",
+        "percentage": "7.29%"
       },
       {
-        "id": "47_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
+        "id": "47_standard_9",
+        "name": "The Flash",
+        "percentage": "5.2%"
+      },
+      {
+        "id": "47_standard_10",
+        "name": "Foot Patrol",
+        "percentage": "0%"
+      },
+      {
+        "id": "47_standard_11",
+        "name": "Land",
+        "percentage": "0%"
+      },
+      {
+        "id": "47_standard_12",
+        "name": "Kenshiro – Fist of the North Star",
+        "percentage": "0%"
+      },
+      {
+        "id": "47_standard_13",
+        "name": "Jackson Pollock",
+        "percentage": "0%"
       }
     ],
+    "artist": [],
+    "secret": [],
     "id": 47,
     "name": "Series 47",
-    "year": 2012,
-    "month": 8
+    "year": 2023,
+    "month": 1
   },
   {
-    "basic": [
-      {
-        "id": "48_basic_1",
-        "name": "Basic 'B'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "48_basic_2",
-        "name": "Basic 'E'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "48_basic_3",
-        "name": "Basic '@'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "48_basic_4",
-        "name": "Basic 'R'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "48_basic_5",
-        "name": "Basic 'b'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "48_basic_6",
-        "name": "Basic 'R2'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "48_basic_7",
-        "name": "Basic 'I'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "48_basic_8",
-        "name": "Basic 'C'",
-        "percentage": "1.11%"
-      },
-      {
-        "id": "48_basic_9",
-        "name": "Basic 'K'",
-        "percentage": "1.11%"
-      }
-    ],
+    "basic": [],
     "standard": [
       {
         "id": "48_standard_1",
-        "name": "Jellybean",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "48_standard_2",
-        "name": "Pattern",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "48_standard_3",
-        "name": "Flag",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "48_standard_4",
-        "name": "Horror",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "48_standard_5",
-        "name": "SF",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "48_standard_6",
-        "name": "Cute",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "48_standard_7",
-        "name": "Animal",
-        "percentage": "12.5%"
+        "name": "Data not available",
+        "percentage": "0%"
       }
     ],
-    "artist": [
-      {
-        "id": "48_artist_1",
-        "name": "Artist1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "48_artist_2",
-        "name": "Artist2",
-        "percentage": "12.5%"
-      }
-    ],
-    "secret": [
-      {
-        "id": "48_secret_1",
-        "name": "Secret1",
-        "percentage": "12.5%"
-      },
-      {
-        "id": "48_secret_2",
-        "name": "Secret2",
-        "percentage": "12.5%"
-      }
-    ],
+    "artist": [],
+    "secret": [],
     "id": 48,
     "name": "Series 48",
     "year": 2024,
-    "month": 11
+    "month": 1
+  },
+  {
+    "basic": [],
+    "standard": [
+      {
+        "id": "49_standard_1",
+        "name": "Data not available",
+        "percentage": "0%"
+      }
+    ],
+    "artist": [],
+    "secret": [],
+    "id": 49,
+    "name": "Series 49",
+    "year": 2024,
+    "month": 1
   }
 ]
